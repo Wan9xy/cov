@@ -1,5 +1,5 @@
 [Script]
-http-response nucleicapi\/nucvac\/info script-path=https://raw.githubusercontent.com/lhnonline/loon-script/master/covid-19/zfb_st_v2_acid.js, requires-body=true, timeout=10, tag=zfb_st_v2_acid
+http-response nucleicapi\/nucvac\/info script-path=https://raw.githubusercontent.com/lhnonline/loon-script/master/covid-19/zfb_st_v2_acid.js, requires-body=true, timeout=90, tag=zfb_st_v2_acid
 
 
 [MITM]
